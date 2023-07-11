@@ -1,0 +1,71 @@
+* {
+    margin: 40;
+    padding: 20;
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn {
+    color: #fff;
+    font-weight: 600;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+}
+
+img {
+    max-width: 70%;
+
+}
+
+
+
+.banner {
+    display: flex;
+    margin: 0 200px;
+
+}
+
+.banner-tittle {
+    font-weight: 600;
+    font-size: 45px;
+}
+
+.banner-subtilltle {
+    font-weight: 600;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.banner-subtilltle {
+    font-weight: 600;
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+
+.banner-last {
+    font-weight: 600;
+    font-size: 45px;
+    margin-bottom: 5px;
+}
+
+.banner-discription {
+    color: #757575;
+    margin-bottom: 20px;
+}
+
+header {
+    background: #FFF8F3;
+    margin-bottom: 40px;
+
+}
+
+.second-task {
+    display: flex;
+    margin: 0 200px;
+
+
+}
+
+.discribe {}
