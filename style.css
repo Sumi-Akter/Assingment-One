@@ -84,3 +84,47 @@ header {
     margin: 0 500px;
 
 }
+
+.hand {
+    background-image: url(images/watch.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 70px;
+
+}
+
+.last-task {
+    background-position: center;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    color: #FFF8F3;
+
+}
+
+footer {
+    background-position: center;
+    margin: 0;
+    padding: 50px;
+    background-color: black;
+}
+
+.foo {
+    color: #FFF8F3;
+}
+
+.done {
+    display: flex;
+}
+
+.sub {
+    margin-top: 20px;
+}
+
+.fa {
+    padding: 40px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: #fff;
+}
