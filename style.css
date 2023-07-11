@@ -1,6 +1,6 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 20;
+
     font-family: 'Poppins', sans-serif;
 }
 
@@ -69,5 +69,18 @@ header {
     display: flex;
     margin: 0 200px;
 
+
+}
+
+.plan {
+    font-weight: 800;
+    font-size: large;
+}
+
+.icon {
+
+    display: flex;
+    gap: 70px;
+    margin: 0 500px;
 
 }
